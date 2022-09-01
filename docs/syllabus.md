@@ -32,7 +32,7 @@ Thurs 10-11 AM
 | purpose | date/time |
 | - | - |
 | last day to add/drop | Monday Sept. 12th |
-| midterm | | 
+| midterm | Thursday Oct 20th in class | 
 | last day to withdraw | Monday Oct. 31st  |
 | final | 2:00 p.m. - 5:00 p.m. December 14 |
 
@@ -62,7 +62,7 @@ Office hours will be held in person in my office Jones 111 at the times posted a
 
 ## Datacamp Assignments (DCs)
 
-We'll have programming assignments on [datacamp](https://www.datacamp.com). A free account can be signed up for [here](). In total, datacamp assignment will be worth 10% of the final grade. These assignments will be posted throughout the course and due a week after posted at 11:59 PM EST.
+We'll have programming assignments on [datacamp](https://www.datacamp.com). A free account can be signed up for (see the Blackboard announcement). In total, datacamp assignments will be worth 10% of the final grade. These assignments will be posted throughout the course and due a week after posted at 11:59 PM EST.
 
 ## Quiz Problems (QPs)
 
