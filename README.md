@@ -13,8 +13,8 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 3|R 9-8 | more linear regression | [SP2](sp/SP2_questions.pdf)| [notes](lns/lec3.pdf)| [.ipynb](code/lab2_regression.ipynb) | [vid](https://youtu.be/eUodj45Yu64) | [QP 2](qp/qp2.pdf) due Sept 15 | 
 4|T 9-13 | K-Nearest Neighbors | --- | [notes](lns/lec4.pdf)|  [.ipynb](code/lab3_knn.ipynb) | [vid](https://youtu.be/Had_sFlVbhg) | --- | 
 5|R 9-15 | evaluation | --- | [notes](lns/lec5.pdf) | [.ipynb](code/lab3_knn.ipynb) | [vid](https://youtu.be/fwBXj_70S00) | [QP 3](qp/qp3.pdf) due Sept 22 | 
-6|T 9-20 | bias-variance tradeoff | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lec6.ipynb) | [vid]() | --- |
-7|R 9-22 | risk minimization | | [notes](lns/lec7.pdf)|  [.ipynb](code/lec7.ipynb)  | [vid]()|[QP 4](qp/qp4.pdf) due Sept 29 | 
+6|T 9-20 | more evaluation | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) | [vid](https://youtu.be/5NFST65VyBY) | --- |
+7|R 9-22 | bias-variance tradeoff and risk minimization | | [notes](lns/lec7.pdf)|  [.ipynb](code/lec7.ipynb)  | [vid]()|[QP 4](qp/qp4.pdf) due Sept 29 | 
 8|T 9-27 | classification |  --- | [notes](lns/lec8.pdf)| [.ipynb](code/lec8.ipynb) | [vid]()| --- |
 9|R 9-29 | linear classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lec9.ipynb) | [vid]()| [QP 5](qp/qp5.pdf) due Oct 6 | 
 10 |T 10-4 | LDA and QDA | --- | [notes](lns/lec10.pdf)| [.ipynb](code/lec10.ipynb) | [vid]()| --- | 
