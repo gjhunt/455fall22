@@ -19,7 +19,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 9|R 9-29 | KNN and Linear Classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab6_knn_class.ipynb) | [vid](https://youtu.be/5wFpOEoYStQ)| [QP 5](qp/qp5.pdf) due Oct 6 | 
 10 |T 10-4 | LDA | --- | [notes](lns/lec10.pdf)| [.ipynb](code/lab7_imbalance.ipynb) | [vid](https://youtu.be/2LqyJrDWmuc)| --- | 
 11|R 10-6 | QDA | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab8_lda.ipynb) [.ipynb](code/lab9_qda.ipynb) | [vid](https://youtu.be/ZIy8T1GNyD4) | [QP 6](qp/qp6.pdf) due Oct 17 | 
-12|T 10-11 | variable selection | --- | [notes](lns/lec12.pdf)| [.ipynb](code/lec12.ipynb)  | [vid]()| --- | 
+12|T 10-11 | Logistic Regression | --- | [notes](lns/lec12.pdf)| [.ipynb](code/lab10_masking.ipynb) [.ipynb](code/lab11_logistic.ipynb)  | [vid](https://youtu.be/OJ2ZduZYVYA)| --- | 
 . |R 10-13 | fall break | 
 13 | T 10-18 | ridge regression | --- | [notes](lns/lec13.pdf)| [.ipynb](code/lec13.ipynb)| [vid]()| --- | 
 .| R 10-20 | midterm | 
