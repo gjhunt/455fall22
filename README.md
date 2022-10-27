@@ -24,7 +24,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 13 | T 10-18 | variable selection | --- | [notes](lns/lec13.pdf)| | [vid](https://youtu.be/r5JQI2cIOHs)| --- | 
 .| R 10-20 | midterm | 
 14|T 10-25 | ridge regression | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab12_var_sel.ipynb) | [vid](https://youtu.be/ZaLSsM1-10A) | [QP7](qp/qp7.pdf) due Nov 1 | 
-15|R 10-27 | PCA | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lec15.ipynb)  | [vid]()| ---  | 
+15|R 10-27 | more ridge | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab13_ridge.ipynb)  | [vid](https://youtu.be/cK_YTC1GmYU)| ---  | 
 16|T 11-1 | PCR | -- | [notes](lns/lec16.pdf) | [.ipynb](code/lec16.ipynb) | [vid]()| [QP8](qp/qp8.pdf) due Nov 10 | 
 17 |R 11-3 | clustering | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lec17.ipynb)  | [vid]() |---|
 . | T 11-8 | Election Day (no classes) | 
