@@ -3,6 +3,7 @@
 ## syllabus and outline
 
 - [syllabus](docs/syllabus.md)
+- [project](docs/project.pdf)
 
 ## lecture notes and videos
 
@@ -25,8 +26,8 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 .| R 10-20 | midterm | 
 14|T 10-25 | ridge regression | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab12_var_sel.ipynb) | [vid](https://youtu.be/ZaLSsM1-10A) | [QP7](qp/qp7.pdf) due Nov 1 | 
 15|R 10-27 | more ridge | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab13_ridge.ipynb)  | [vid](https://youtu.be/cK_YTC1GmYU)| ---  | 
-16|T 11-1 | PCR | -- | [notes](lns/lec16.pdf) | [.ipynb](code/lec16.ipynb) | [vid]()| [QP8](qp/qp8.pdf) due Nov 10 | 
-17 |R 11-3 | clustering | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lec17.ipynb)  | [vid]() |---|
+16|T 11-1 | LASSO | -- | [notes](lns/lec16.pdf) | | [vid](https://youtu.be/83QbTNNehYs)|  | 
+17 |R 11-3 | PCA | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lec17.ipynb)  | [vid]() | [QP8](qp/qp8.pdf) due Nov 10 |
 . | T 11-8 | Election Day (no classes) | 
 18|R 11-10 | more clustering | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lec18.ipynb)  | [vid]()| [QP9](qp/qp9.pdf) due Nov 17 | 
 19|T 11-15 | trees | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lec19.ipynb) | [vid]()|  --- | 
