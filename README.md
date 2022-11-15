@@ -30,13 +30,13 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 17 |R 11-3 | PCA | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lab14_lasso.ipynb)  | [vid](https://youtu.be/pd0id2CczBU) |  |
 . | T 11-8 | Election Day (no classes) | 
 18|R 11-10 | more PCA | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab15_pca.ipynb)  | [vid](https://youtu.be/HVrDAMGDe9w)| [QP8](qp/qp8.pdf) due Nov 17 | 
-19|T 11-15 | trees | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lec19.ipynb) | [vid]()|  --- | 
-20|R 11-17 | bagging and RFs | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lec20.ipynb) | [vid]() | [QP9](qp/qp9.pdf) due Nov 29 | 
-21|T 11-22 | boosting | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lec21.ipynb) | [vid]() | ---  | 
+19|T 11-15 | PCR | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab16_pcr.ipynb) | [vid](https://youtu.be/aT7yHwP917E)|  --- | 
+20|R 11-17 | K-means | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lec20.ipynb) | [vid]() | [QP9](qp/qp9.pdf) due Nov 29 | 
+21|T 11-22 | hierarchical clustering | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lec21.ipynb) | [vid]() | ---  | 
 . | R 11-24 | Thanksgiving | 
-22|T 11-29 | nonparametric regression | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lec22.ipynb)  | [vid]() | [QP10](qp/qp10.pdf) due Dec 6 | 
-23|R 12-1 | kpca | --- |[notes](lns/lec22.pdf)| [.ipynb](code/lec23.ipynb) | [vid]() | --- | 
-24|T 12-6 | SVMs | --- | [notes](lns/lec23.pdf)|[.ipynb](code/lec24.ipynb) |  [vid]() | --- | 
+22|T 11-29 | trees | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lec22.ipynb)  | [vid]() | [QP10](qp/qp10.pdf) due Dec 6 | 
+23|R 12-1 | bagging and RFs | --- |[notes](lns/lec22.pdf)| [.ipynb](code/lec23.ipynb) | [vid]() | --- | 
+24|T 12-6 | boosting | --- | [notes](lns/lec23.pdf)|[.ipynb](code/lec24.ipynb) |  [vid]() | --- | 
 
 
 
