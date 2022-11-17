@@ -31,7 +31,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 . | T 11-8 | Election Day (no classes) | 
 18|R 11-10 | more PCA | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab15_pca.ipynb)  | [vid](https://youtu.be/HVrDAMGDe9w)| [QP8](qp/qp8.pdf) due Nov 17 | 
 19|T 11-15 | PCR | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab16_pcr.ipynb) | [vid](https://youtu.be/aT7yHwP917E)|  --- | 
-20|R 11-17 | K-means | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lec20.ipynb) | [vid]() | [QP9](qp/qp9.pdf) due Nov 29 | 
+20|R 11-17 | K-means | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab17_kmeans.ipynb) | [vid](https://youtu.be/MfOuwa2musw) | [QP9](qp/qp9.pdf) due Nov 29 | 
 21|T 11-22 | hierarchical clustering | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lec21.ipynb) | [vid]() | ---  | 
 . | R 11-24 | Thanksgiving | 
 22|T 11-29 | trees | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lec22.ipynb)  | [vid]() | [QP10](qp/qp10.pdf) due Dec 6 | 
