@@ -34,8 +34,8 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 20|R 11-17 | K-means | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab17_kmeans.ipynb) | [vid](https://youtu.be/MfOuwa2musw) | [QP9](qp/qp9.pdf) due Nov 29 | 
 21|T 11-22 | hierarchical clustering | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab18_hierarchical.ipynb) | [vid](https://youtu.be/a83qwKsoQCU) | ---  | 
 . | R 11-24 | Thanksgiving | 
-22|T 11-29 | trees | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lec22.ipynb)  | [vid]() | [QP10](qp/qp10.pdf) due Dec 6 | 
-23|R 12-1 | bagging and RFs | --- |[notes](lns/lec22.pdf)| [.ipynb](code/lec23.ipynb) | [vid]() | --- | 
+22|T 11-29 | trees | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lec22.ipynb)  | [vid](https://youtu.be/IuWayjeHMAk) |  | 
+23|R 12-1 | bagging and RFs | --- |[notes](lns/lec22.pdf)| [.ipynb](code/lec23.ipynb) | [vid]() | [QP10](qp/qp10.pdf) due Dec 8 | 
 24|T 12-6 | boosting | --- | [notes](lns/lec23.pdf)|[.ipynb](code/lec24.ipynb) |  [vid]() | --- | 
 
 
