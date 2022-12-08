@@ -37,7 +37,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 22|T 11-29 | trees | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab19_trees.ipynb)  | [vid](https://youtu.be/IuWayjeHMAk) |  | 
 23|R 12-1 | RFs | --- |[notes](lns/lec23.pdf)| [.ipynb](code/lab20_rf.ipynb) | [vid](https://youtu.be/a7Jvc_YWPnw) | [QP10](qp/qp10.pdf) [optional] due Dec 8 | 
 24|T 12-6 | boosting | --- | [notes](lns/lec24.pdf)| |  [vid](https://youtu.be/W13qn1CVuNc) | --- | 
-25|T 12-8 | kernel regression | --- | [notes](lns/lec25.pdf)|[.ipynb](code/) |  [vid]() | --- | 
+25|T 12-8 | kernel regression | --- | [notes](lns/lec25.pdf)|[.ipynb](code/lab22_kr.ipynb) |  [vid](https://youtu.be/dtAbpHyEBz4) | --- | 
 
 
 
